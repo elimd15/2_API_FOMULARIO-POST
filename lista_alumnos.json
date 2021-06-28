@@ -1,0 +1,57 @@
+[
+    {
+        "item_id": 1,
+        "matricula": 918765432,
+        "nombre": "Elezar",
+        "apaterno": "Moreno",
+        "amaterno": "Diaz",
+        "edad": 21,
+        "correo": "Elezar@gmail.com",
+        "telefono": 9191806655,
+        "carrera": "I-RIyC"
+    },
+    {
+        "item_id": 2,
+        "matricula": 918765434,
+        "nombre": "Guillermo",
+        "apaterno": "Ramies",
+        "amaterno": "Benitez",
+        "edad": 20,
+        "correo": "guile11@gmail.com",
+        "telefono": 9191806655,
+        "carrera": "I-RIyC"
+    },
+    {
+        "item_id": 3,
+        "matricula": 123456789,
+        "nombre": "Alan",
+        "apaterno": "Gomez",
+        "amaterno": "Sanchez",
+        "edad": 40,
+        "correo": "alan@gmail.com",
+        "telefono": 9191806655,
+        "carrera": "I-RIyC"
+    },
+    {
+        "item_id": 4,
+        "matricula": 123456788,
+        "nombre": "Daniel",
+        "apaterno": "Morales",
+        "amaterno": "Duran",
+        "edad": 33,
+        "correo": "dany1233@gmail.com",
+        "telefono": 9191806655,
+        "carrera": "I-RIyC"
+    },
+    {
+        "item_id": 5,
+        "matricula": 8800993211,
+        "nombre": "Rodan",
+        "apaterno": "Gonzales",
+        "amaterno": "de Leon",
+        "edad": 21,
+        "correo": "leon12@gmai.com",
+        "telefono": 929893232,
+        "carrera": "I-RIyC"
+    }
+]
