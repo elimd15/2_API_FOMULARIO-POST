@@ -101,3 +101,11 @@ async def modificar(request:Request,id:int):
     datos[id] = nuevos_datos
     await guardarJSON(datos)
     return RedirectResponse("/lista",303)
+
+@app.get("/ver_sitiopersonal/{id}")
+async def modificar(request:Request,id:int):
+    datos = await cargarJSON()
+    id1 = datos[id]
+    id2 = id1['item_id']
+    print (id2)
+    return miPlantilla.TemplateResponse("personal.html",{"request":request,"lista":datos,"id":id2})
